@@ -93,3 +93,6 @@ Las sugerencias obtenidas fueron revisadas y adaptadas para que se relacionen co
 Repositorio de GitHub
 
 Tablero de tareas de GitHub Projects
+
+#INTEGRANTE 
+Daniel Leonardelli: responsable de la documentación y el desarrollo del proyecto.
