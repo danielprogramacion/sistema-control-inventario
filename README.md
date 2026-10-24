@@ -70,16 +70,6 @@ En Progreso: actividades que se están realizando.
 
 Listo: actividades finalizadas y revisadas.
 
-El tablero permitirá organizar las actividades necesarias para desarrollar el sistema y visualizar el estado de cada tarea.
-
-Las tareas se clasificarán en tres estados:
-
-Por Hacer: actividades pendientes de comenzar.
-
-En Progreso: actividades que se están realizando.
-
-Listo: actividades finalizadas y revisadas.
-
 Este método facilitará el seguimiento de los objetivos, la organización del tiempo y la identificación de las tareas pendientes.
 
 #DECLARACIÓN DEL USO DE LA IA
@@ -87,6 +77,21 @@ Este método facilitará el seguimiento de los objetivos, la organización del t
 Durante la elaboración del proyecto se utilizó inteligencia artificial como herramienta de apoyo para organizar ideas, mejorar la redacción de la documentación y proponer una estructura para presentar la información en GitHub.
 
 Las sugerencias obtenidas fueron revisadas y adaptadas para que se relacionen con los objetivos y requisitos del trabajo práctico. La herramienta se utilizó como asistencia y no como reemplazo de la revisión y comprensión del contenido por parte del estudiante.
+PROMPT 1:  Elaboración del README
+
+Qué le pedí: “Ayudame a crear un README para explicar el objetivo, las funciones y las herramientas utilizadas en mi proyecto de inventario”.
+
+Qué me propuso la IA: Una estructura con descripción, objetivos, funciones principales y herramientas.
+
+Qué corregí yo: Adapté la información al proyecto del supermercado y revisé que el contenido fuera claro y estuviera relacionado con el trabajo realizado.
+
+PROMPT 2: Organización del proyecto
+
+Qué le pedí: “¿Cómo puedo organizar las tareas para desarrollar un sistema de control de inventario para un supermercado?”
+
+Qué me propuso la IA: Dividir el proyecto en etapas, como análisis, diseño, programación y pruebas.
+
+Qué corregí yo: Organicé las tareas de acuerdo con el objetivo del proyecto y las adapté para poder registrarlas en el tablero de GitHub Projects.
 
 #ENLACE DEL PROYECTO
 
