@@ -77,6 +77,7 @@ Este método facilitará el seguimiento de los objetivos, la organización del t
 Durante la elaboración del proyecto se utilizó inteligencia artificial como herramienta de apoyo para organizar ideas, mejorar la redacción de la documentación y proponer una estructura para presentar la información en GitHub.
 
 Las sugerencias obtenidas fueron revisadas y adaptadas para que se relacionen con los objetivos y requisitos del trabajo práctico. La herramienta se utilizó como asistencia y no como reemplazo de la revisión y comprensión del contenido por parte del estudiante.
+
 PROMPT 1:  Elaboración del README
 
 Qué le pedí: “Ayudame a crear un README para explicar el objetivo, las funciones y las herramientas utilizadas en mi proyecto de inventario”.
