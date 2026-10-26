@@ -14,8 +14,18 @@ Historia 3: Actualizar stock
 Como responsable del inventario, quiero registrar de manera automática o manual los movimientos de entrada y salida de productos originados por ventas confirmadas, mermas o reposiciones de proveedores, para mantener actualizadas las cantidades exactas en la base de datos y detectar de forma temprana cuándo los niveles de mercadería perforan el stock mínimo establecido, permitiendo que el sistema descuente unidades por cada venta concretada, sume los nuevos ingresos de mercadería y emita alertas visuales cuando sea necesario reponer stock.
 
 #INDICADORES DE CONTROL 
-Indicador	                        |                             Forma de cálculo	                                                |                      Para qué sirve
-Productos bajo stock mínimo	      |                 Productos bajo el mínimo ÷ productos registrados × 100	                      |           Identificar necesidades de reposición
-Diferencias de stock	            |   Productos cuya cantidad real no coincide con la registrada ÷ productos verificados × 100	  |           Detectar errores en el inventario
-Tiempo de reposición	            |                 Fecha de reposición − fecha del aviso	                                        |         Medir cuánto se tarda en reponer
-Operaciones correctas	            |                 Operaciones correctas ÷ operaciones probadas × 100	                          |           Evaluar el funcionamiento del sistema
+Indicador: Productos bajo stock mínimo	                                          
+Forma de cálculo:  Productos bajo el mínimo ÷ productos registrados × 100    
+Para qué sirve:   Identificar necesidades de reposición
+                     	                                 
+Indicador: Diferencias de stock	  
+Forma de cálculo: Productos cuya cantidad real no coincide con la registrada ÷ productos verificados × 100	             
+Para qué sirve: Detectar errores en el inventario
+
+Indicador: Tiempo de reposición	                             
+Forma de cálculo: Fecha de reposición − fecha del aviso	                                                 
+Para qué sirve: Medir cuánto se tarda en reponer
+
+Indicador: Operaciones correctas	                           
+Forma de cálculo: Operaciones correctas ÷ operaciones probadas × 100	                                    
+Para qué sirve: Evaluar el funcionamiento del sistema
