@@ -14,6 +14,7 @@ Historia 3: Actualizar stock
 Como responsable del inventario, quiero registrar de manera automática o manual los movimientos de entrada y salida de productos originados por ventas confirmadas, mermas o reposiciones de proveedores, para mantener actualizadas las cantidades exactas en la base de datos y detectar de forma temprana cuándo los niveles de mercadería perforan el stock mínimo establecido, permitiendo que el sistema descuente unidades por cada venta concretada, sume los nuevos ingresos de mercadería y emita alertas visuales cuando sea necesario reponer stock.
 
 #INDICADORES DE CONTROL 
+
 Indicador: Productos bajo stock mínimo	                                          
 Forma de cálculo:  Productos bajo el mínimo ÷ productos registrados × 100    
 Para qué sirve:   Identificar necesidades de reposición
