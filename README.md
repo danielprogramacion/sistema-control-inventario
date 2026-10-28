@@ -84,14 +84,14 @@ Qué le pedí: “Ayudame a crear un README para explicar el objetivo, las funci
 
 Qué me propuso la IA: Una estructura con descripción, objetivos, funciones principales y herramientas.
 
-La IA propuso que elimine las instrucciones de instalación e integración de código y reestructuré el README para enfocarlo exclusivamente en el análisis de procesos, el modelado BPMN, las Historias de Usuario y los indicadores de control del supermercado.
+Qué corregí yo: Eliminé por completo las instrucciones de código y los comandos de instalación porque no aplican a este trabajo, y reorganicé el contenido para enfocar el README exclusivamente en el análisis de procesos, el modelado BPMN, el backlog y la documentación del supermercado.
 
 PROMPT 2: Organización del proyecto
 Qué le pedí: “¿Cómo puedo organizar las tareas para desarrollar un sistema de control de inventario para un supermercado?”
 
 Qué me propuso la IA: Dividir el proyecto en etapas de desarrollo de software, incluyendo análisis, diseño, programación, pruebas y despliegue.
 
- La IA propuso una etapa de programación y pruebas de código, pero la saqué porque este TP es estrictamente de análisis de procesos y documentación. En su lugar, organicé las tareas en el tablero de GitHub Projects enfocándome en el relevamiento de procesos, la corrección sintáctica del BPMN y la definición del backlog funcional.
+Qué corregí yo: Descarté las etapas de programación y pruebas de código porque este trabajo práctico es estrictamente de análisis de procesos y documentación. En su lugar, adapté las tareas en mi tablero de GitHub Projects para centrarme únicamente en el relevamiento, la corrección del diagrama BPMN y la definición del backlog funcional.
 
 #ENLACE DEL PROYECTO
 
